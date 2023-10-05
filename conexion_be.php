@@ -7,4 +7,9 @@ if($conexion){
     echo'no se conecto';
 }
 */
+/*
+hlwHJCVBELQIVBWIQ3HBRV
+SSSSSSSSS
+SDFGHJKL
+*/
 ?>
